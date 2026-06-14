@@ -50,3 +50,14 @@ Plant-Disease-Detection-system/
 ├── plant-disease-detection (1).ipynb   # Comprehensive training notebook & pipeline pipeline
 ├── image_2b84e2.png                    # Exported performance & convergence curves
 └── README.md                           # Documentation page
+```
+### 📊 Model Performance Metrics
+
+#### 1. Training & Validation Loss
+![Loss Curve](loss_curve.png)
+
+#### 2. Training & Validation Accuracy
+![Accuracy Curve](accuracy_curve.png)
+
+#### 3. Classification Performance Summary
+![Metrics Summary](metrics_percentage.png)
